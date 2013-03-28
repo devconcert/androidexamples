@@ -25,3 +25,6 @@
 [submodule "sampleapps/google-iosched"]
 	path = sampleapps/google-iosched
 	url = https://github.com/jwang/iosched.git
+[submodule "ui/PathButton"]
+	path = ui/PathButton
+	url = https://github.com/dodola/PathButton.git
