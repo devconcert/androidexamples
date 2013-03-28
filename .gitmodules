@@ -7,3 +7,6 @@
 [submodule "apps/pull-to-refresh"]
 	path = apps/pull-to-refresh
 	url = https://github.com/johannilsson/android-pulltorefresh.git
+[submodule "apps/actionbar"]
+	path = apps/actionbar
+	url = https://github.com/johannilsson/android-actionbar.git
