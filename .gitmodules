@@ -43,3 +43,6 @@
 [submodule "ui/Staggered-GridView"]
 	path = ui/Staggered-GridView
 	url = https://github.com/chrisjenx/StaggeredGridView.git
+[submodule "ui/times-squre-calender"]
+	path = ui/times-squre-calender
+	url = https://github.com/square/android-times-square.git
