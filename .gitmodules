@@ -31,3 +31,6 @@
 [submodule "ui/RibbonMenu"]
 	path = ui/RibbonMenu
 	url = https://github.com/darvds/RibbonMenu.git
+[submodule "ui/waterfall-grid"]
+	path = ui/waterfall-grid
+	url = https://github.com/dodola/android_waterfall.git
