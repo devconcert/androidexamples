@@ -58,3 +58,6 @@
 [submodule "market/BillingLibrary"]
 	path = market/BillingLibrary
 	url = https://github.com/robotmedia/AndroidBillingLibrary.git
+[submodule "game/AndEngine"]
+	path = game/AndEngine
+	url = https://github.com/nicolasgramlich/AndEngine.git
