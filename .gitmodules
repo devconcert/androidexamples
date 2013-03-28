@@ -19,3 +19,6 @@
 [submodule "apps/viewbadger"]
 	path = apps/viewbadger
 	url = https://github.com/jgilfelt/android-viewbadger
+[submodule "apps/CoverFlowWidget"]
+	path = apps/CoverFlowWidget
+	url = https://github.com/HelgePlaschke/Android-Cover-Flow-Widget.git
