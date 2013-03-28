@@ -22,3 +22,6 @@
 [submodule "apps/CoverFlowWidget"]
 	path = apps/CoverFlowWidget
 	url = https://github.com/HelgePlaschke/Android-Cover-Flow-Widget.git
+[submodule "sampleapps/google-iosched"]
+	path = sampleapps/google-iosched
+	url = https://github.com/jwang/iosched.git
