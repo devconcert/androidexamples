@@ -46,3 +46,6 @@
 [submodule "ui/times-squre-calender"]
 	path = ui/times-squre-calender
 	url = https://github.com/square/android-times-square.git
+[submodule "sampleapps/oschina"]
+	path = sampleapps/oschina
+	url = https://github.com/oschina/android-app.git
