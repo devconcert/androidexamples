@@ -40,3 +40,6 @@
 [submodule "ui/cards-ui"]
 	path = ui/cards-ui
 	url = https://github.com/nadavfima/cardsui-for-android.git
+[submodule "ui/Staggered-GridView"]
+	path = ui/Staggered-GridView
+	url = https://github.com/chrisjenx/StaggeredGridView.git
