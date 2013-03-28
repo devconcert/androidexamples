@@ -4,3 +4,6 @@
 [submodule "apps/ActionBarSherlock"]
 	path = apps/ActionBarSherlock
 	url = https://github.com/JakeWharton/ActionBarSherlock.git
+[submodule "apps/pull-to-refresh"]
+	path = apps/pull-to-refresh
+	url = https://github.com/johannilsson/android-pulltorefresh.git
