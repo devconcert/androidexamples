@@ -52,3 +52,6 @@
 [submodule "ui/actionbar-style-generator"]
 	path = ui/actionbar-style-generator
 	url = https://github.com/jgilfelt/android-actionbarstylegenerator.git
+[submodule "ui/swipe-listview"]
+	path = ui/swipe-listview
+	url = https://github.com/47deg/android-swipelistview.git
