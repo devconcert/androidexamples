@@ -1,26 +1,26 @@
-[submodule "apps/ViewPagerIndicator"]
-	path = apps/ViewPagerIndicator
+[submodule "ui/ViewPagerIndicator"]
+	path = ui/ViewPagerIndicator
 	url = https://github.com/JakeWharton/Android-ViewPagerIndicator.git
-[submodule "apps/ActionBarSherlock"]
-	path = apps/ActionBarSherlock
+[submodule "ui/ActionBarSherlock"]
+	path = ui/ActionBarSherlock
 	url = https://github.com/JakeWharton/ActionBarSherlock.git
-[submodule "apps/pull-to-refresh"]
-	path = apps/pull-to-refresh
+[submodule "ui/pull-to-refresh"]
+	path = ui/pull-to-refresh
 	url = https://github.com/johannilsson/android-pulltorefresh.git
-[submodule "apps/actionbar"]
-	path = apps/actionbar
+[submodule "ui/actionbar"]
+	path = ui/actionbar
 	url = https://github.com/johannilsson/android-actionbar.git
-[submodule "apps/SlidingMenu"]
-	path = apps/SlidingMenu
+[submodule "ui/SlidingMenu"]
+	path = ui/SlidingMenu
 	url = https://github.com/jfeinstein10/SlidingMenu.git
-[submodule "apps/viewflow"]
-	path = apps/viewflow
+[submodule "ui/viewflow"]
+	path = ui/viewflow
 	url = https://github.com/pakerfeldt/android-viewflow.git
-[submodule "apps/viewbadger"]
-	path = apps/viewbadger
+[submodule "ui/viewbadger"]
+	path = ui/viewbadger
 	url = https://github.com/jgilfelt/android-viewbadger
-[submodule "apps/CoverFlowWidget"]
-	path = apps/CoverFlowWidget
+[submodule "ui/CoverFlowWidget"]
+	path = ui/CoverFlowWidget
 	url = https://github.com/HelgePlaschke/Android-Cover-Flow-Widget.git
 [submodule "sampleapps/google-iosched"]
 	path = sampleapps/google-iosched
