@@ -16,3 +16,6 @@
 [submodule "apps/viewflow"]
 	path = apps/viewflow
 	url = https://github.com/pakerfeldt/android-viewflow.git
+[submodule "apps/viewbadger"]
+	path = apps/viewbadger
+	url = https://github.com/jgilfelt/android-viewbadger
