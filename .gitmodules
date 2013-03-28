@@ -55,3 +55,6 @@
 [submodule "ui/swipe-listview"]
 	path = ui/swipe-listview
 	url = https://github.com/47deg/android-swipelistview.git
+[submodule "market/BillingLibrary"]
+	path = market/BillingLibrary
+	url = https://github.com/robotmedia/AndroidBillingLibrary.git
