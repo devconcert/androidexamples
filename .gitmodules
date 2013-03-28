@@ -10,3 +10,6 @@
 [submodule "apps/actionbar"]
 	path = apps/actionbar
 	url = https://github.com/johannilsson/android-actionbar.git
+[submodule "apps/SlidingMenu"]
+	path = apps/SlidingMenu
+	url = https://github.com/jfeinstein10/SlidingMenu.git
