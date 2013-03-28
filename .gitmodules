@@ -37,3 +37,6 @@
 [submodule "ui/SwitchButton"]
 	path = ui/SwitchButton
 	url = https://github.com/IssacWang/SwitchButton.git
+[submodule "ui/cards-ui"]
+	path = ui/cards-ui
+	url = https://github.com/nadavfima/cardsui-for-android.git
