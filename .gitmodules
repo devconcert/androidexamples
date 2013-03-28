@@ -34,3 +34,6 @@
 [submodule "ui/waterfall-grid"]
 	path = ui/waterfall-grid
 	url = https://github.com/dodola/android_waterfall.git
+[submodule "ui/SwitchButton"]
+	path = ui/SwitchButton
+	url = https://github.com/IssacWang/SwitchButton.git
