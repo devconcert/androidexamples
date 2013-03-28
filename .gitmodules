@@ -13,3 +13,6 @@
 [submodule "apps/SlidingMenu"]
 	path = apps/SlidingMenu
 	url = https://github.com/jfeinstein10/SlidingMenu.git
+[submodule "apps/viewflow"]
+	path = apps/viewflow
+	url = https://github.com/pakerfeldt/android-viewflow.git
