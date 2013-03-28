@@ -49,3 +49,6 @@
 [submodule "sampleapps/oschina"]
 	path = sampleapps/oschina
 	url = https://github.com/oschina/android-app.git
+[submodule "ui/actionbar-style-generator"]
+	path = ui/actionbar-style-generator
+	url = https://github.com/jgilfelt/android-actionbarstylegenerator.git
