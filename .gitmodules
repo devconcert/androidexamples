@@ -61,3 +61,6 @@
 [submodule "game/AndEngine"]
 	path = game/AndEngine
 	url = https://github.com/nicolasgramlich/AndEngine.git
+[submodule "ui/MenuDrawer"]
+	path = ui/MenuDrawer
+	url = https://github.com/SimonVT/android-menudrawer.git
