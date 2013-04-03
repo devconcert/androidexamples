@@ -67,3 +67,6 @@
 [submodule "ui/FlipAnimation"]
 	path = ui/FlipAnimation
 	url = https://github.com/openaphid/android-flip.git
+[submodule "ui/PageCurl"]
+	path = ui/PageCurl
+	url = https://github.com/harism/android_page_curl.git
