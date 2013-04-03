@@ -64,3 +64,6 @@
 [submodule "ui/MenuDrawer"]
 	path = ui/MenuDrawer
 	url = https://github.com/SimonVT/android-menudrawer.git
+[submodule "ui/FlipAnimation"]
+	path = ui/FlipAnimation
+	url = https://github.com/openaphid/android-flip.git
